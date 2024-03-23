@@ -1,9 +1,10 @@
 ---
-title: "Guiding Principles for Better Education in Simple Words"
+title: "New Education Policy 2020 - Guiding Principles for Better Education in Simple Words"
 date: "2024-03-23T 21:11:11.1211"
-description: "Discover the essential ideas shaping education in simpler terms. Learn about recognizing each student's talents, making sure everyone can read and do math well, letting students choose what they want to learn, and mixing different subjects together. Find out why understanding concepts is more important than memorizing, and why being creative and thinking critically matters. Explore values like kindness, fairness, and respect, and why learning different languages is cool. Understand how teamwork, problem-solving, and using technology help in learning. See why treating everyone equally and including everyone is important in education. And know that education should always focus on making things better for all kids."
+description: "Discover the essential ideas shaping education in simpler terms using New Educaiton Policy of India. Learn about recognizing each student's talents, making sure everyone can read and do math well, letting students choose what they want to learn, and mixing different subjects together. Find out why understanding concepts is more important than memorizing, and why being creative and thinking critically matters. Explore values like kindness, fairness, and respect, and why learning different languages is cool. Understand how teamwork, problem-solving, and using technology help in learning. See why treating everyone equally and including everyone is important in education. And know that education should always focus on making things better for all kids."
 ---
-**Unlocking Better Education: Understanding Key Principles**
+**Unlocking Better Education: Understanding Key Principles - NEP2020**
+Following are the fundamental aspects of New education policy 2020.
 
 Education is like a treasure chest waiting to be unlocked, and the key lies in understanding some fundamental principles that guide our learning journey. Let's explore these principles in simpler terms:
 
@@ -36,3 +37,5 @@ Education is like a treasure chest waiting to be unlocked, and the key lies in u
 14. **Investing in Education**: Just like planting seeds in a garden, investing in education is like planting seeds for the future. Whether it's through public schools or private initiatives, everyone should pitch in to make sure every child gets a chance to learn and grow.
 
 Understanding these principles is like having a map that guides us on our educational journey. By following them, we can unlock the door to a brighter future for all.
+
+If you want to read more about NEP 2020, lets us know about it.
