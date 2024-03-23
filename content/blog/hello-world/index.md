@@ -5,7 +5,7 @@ description: "Hello World"
 ---
 
 there is one blog entry for testing on lopu to make sure that we can edit and update the blog any time
-
+i am just trying to find if it requires to deploy everytime i add the data
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
