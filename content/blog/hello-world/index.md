@@ -3,7 +3,7 @@ title: Hello Lopu
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
-
+ANurag Jain Anurag Jain
 there is one blog entry for testing on lopu to make sure that we can edit and update the blog any time
 i am just trying to find if it requires to deploy everytime i add the data
 I'm sure I'll write a lot more interesting things in the future.
