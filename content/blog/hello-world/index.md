@@ -4,7 +4,7 @@ date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+there is one blog entry for testing on lopu to make sure that we can edit and update the blog any time
 
 I'm sure I'll write a lot more interesting things in the future.
 
