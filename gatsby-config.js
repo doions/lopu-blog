@@ -9,9 +9,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Lopu - Local Public`,
+    title: `Lopu.in`,
     author: {
-      name: `Mr Lopu`,
+      name: `AJ`,
       summary: `Read the latest with Lopu`,
     },
     description: `Blog posts by Lopu are unique and interesting`,
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Lopu RSS Feed",
           },
         ],
       },
