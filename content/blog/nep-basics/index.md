@@ -1,6 +1,6 @@
 ---
 title: "New Education Policy 2020 - Guiding Principles for Better Education in Simple Words"
-date: "2024-03-23T 21:11:01.1111"
+date: "2024-03-24T11:11:11.111"
 description: "Discover the essential ideas shaping education in simpler terms using New Educaiton Policy of India. Learn about recognizing each student's talents, making sure everyone can read and do math well, letting students choose what they want to learn, and mixing different subjects together. Find out why understanding concepts is more important than memorizing, and why being creative and thinking critically matters. Explore values like kindness, fairness, and respect, and why learning different languages is cool. Understand how teamwork, problem-solving, and using technology help in learning. See why treating everyone equally and including everyone is important in education. And know that education should always focus on making things better for all kids."
 ---
 **Unlocking Better Education: Understanding Key Principles - NEP2020**
