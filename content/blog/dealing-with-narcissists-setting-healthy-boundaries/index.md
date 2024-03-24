@@ -1,7 +1,7 @@
 ---
-Title: "Navigating Narcissism: Learning to Set Healthy Boundaries"
+title: "Navigating Narcissism: Learning to Set Healthy Boundaries"
 date: "2024-03-25T11:11:11.1111"
-Description: "Narcissistic individuals are prevalent in our lives, but until we learn to deal with them effectively, they will continue to encroach upon our boundaries. This article delves into understanding narcissistic behavior, the tactics they employ, and the importance of cultivating self-respect and establishing healthy boundaries. Discover how to identify love bombing and emotional manipulation, and empower yourself to heal and protect your emotional well-being."
+description: "Narcissistic individuals are prevalent in our lives, but until we learn to deal with them effectively, they will continue to encroach upon our boundaries. This article delves into understanding narcissistic behavior, the tactics they employ, and the importance of cultivating self-respect and establishing healthy boundaries. Discover how to identify love bombing and emotional manipulation, and empower yourself to heal and protect your emotional well-being."
 
 ---
 
