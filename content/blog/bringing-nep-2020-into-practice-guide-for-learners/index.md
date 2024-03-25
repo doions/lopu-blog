@@ -1,6 +1,6 @@
 ---
 title: "Bringing NEP 2020 into Practice: A Practical Guide for Learners"
-date: "2024-03-23T11:11:11.1111"
+date: "2024-03-25T11:11:11.1111"
 description: "Explore actionable steps for learners to translate the principles of the National Education Policy (NEP) 2020 into practice, fostering holistic education and career readiness. From diversifying learning to embracing lifelong learning, empower yourself to achieve your career goals with confidence and resilience."
 ---
 
