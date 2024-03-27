@@ -5,6 +5,7 @@ description: "Heartfulness meditation is a practice that focuses on gently turni
 
 ---
 ![heartfulness meditation](https://s3-us-west-2.amazonaws.com/heartfulnessweb/en/wp-content/uploads/2019/04/05114150/LTM-logo_updated.png)
+
 Heartfulness meditation is a simple, yet effective, relaxation and meditation technique that aims to foster inner peace, balance, and well-being. It is based on the principle of gently turning one's attention towards the heart, which is considered the core of our being, and experiencing the natural state of tranquility and connection within.
 
 The practice of heartfulness meditation involves the following steps:
