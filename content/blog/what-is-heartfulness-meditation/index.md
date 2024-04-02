@@ -1,5 +1,5 @@
 ---
-title: "What is heartfulness meditation"
+title: "What is heartfulness meditation?"
 date: "2024-03-27T19:52:11.1111"
 description: "Heartfulness meditation is a practice that focuses on gently turning one's attention towards the heart, fostering inner peace and balance. By connecting with the heart center and cultivating feelings of gratitude and love, practitioners aim to reduce stress, improve focus, and deepen their sense of well-being. This simple yet effective technique can be practiced individually or in groups, and is accessible to people of all ages and backgrounds."
 
