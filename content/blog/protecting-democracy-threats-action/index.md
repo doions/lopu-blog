@@ -1,9 +1,8 @@
 ---
-title: Protecting Democracy: Recognizing Threats and Taking Action
-description: |
-  In this blog post, we explore the current threats facing democracy and discuss actionable steps individuals can take to protect democratic principles and institutions.
+title: "Protecting Democracy: Recognizing Threats and Taking Action"
+description: "In this blog post, we explore the current threats facing democracy and discuss actionable steps individuals can take to protect democratic principles and institutions."
 date: "2024-04-03"
-slug: protecting-democracy-threats-action
+
 ---
 
   In recent times, our democracy has faced unprecedented challenges, threatening its very foundation and the principles it stands for. From the erosion of civil liberties to the spread of disinformation and the rise of authoritarianism, the signs of democracy under threat are evident. As responsible citizens, it's imperative that we recognize these threats and take collective action to safeguard our democratic values.
