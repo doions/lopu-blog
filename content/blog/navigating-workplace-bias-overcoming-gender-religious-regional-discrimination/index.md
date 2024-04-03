@@ -1,7 +1,7 @@
 ---
 title: "Navigating Workplace Bias: Overcoming Gender, Religious, and Regional Discrimination"
 description: "This article explores the pervasive issue of workplace bias, focusing on discrimination based on gender, religion, caste, and regional origins. From hiring and promotion to everyday interactions, biases can manifest at every stage of employment, particularly for individuals working away from their home or native place. By shedding light on these challenges and providing practical strategies for addressing discrimination, this piece empowers professionals to advocate for equity and inclusion in the workplace."
-Date: "2024-04-05"
+date: "2024-04-05"
 ---
 
 **Understanding Workplace Bias**
