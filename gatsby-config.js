@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Lopu.in`,
+    title: `Easy and Simple Articles on day to day topics - Lopu.in`,
     author: {
       name: `AJ`,
       summary: `Read the latest with Lopu`,
