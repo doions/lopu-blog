@@ -1,7 +1,7 @@
 ---
 title: "10 Rules of Heartfulness: A Guide to Cultivating Compassion and Connection"
 description: "Explore the principles of heartfulness to cultivate compassion, empathy, and connection in your life. Discover ten rules to nurture a heart-centered approach to living."
-date: "1982-04-22"
+date: "2024-04-22"
 ---
 Here are 10 rules of heartfulness:
 
